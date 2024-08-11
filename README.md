@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm GoUlyashka 👋</h1>
 
----
 
 ### 👩‍💻 About Me :
 
@@ -50,6 +49,8 @@
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
 </p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GoUlyashka&style=flat-square&color=blue" alt="Profile Views">
