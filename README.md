@@ -1,11 +1,5 @@
 <h1 align="center">Hi there, I'm GoUlyashka 👋</h1>
 
-
-<p align="center">
-  <a href="https://github.com/GoUlyashka"><img src="https://img.shields.io/github/followers/GoUlyashka?label=follow&style=social"></a>
-</p>
-
-
 ---
 
 ### 👩‍💻 About Me :
